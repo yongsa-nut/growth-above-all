@@ -9,5 +9,5 @@ This repository accompanies the paper "Growth Above All: Goals and Beneficiaries
 - `codebook.md`: the codebook given to the LLM coders and the human coders, followed by the computed coarse goal level.
 - `codes/`: the codes of the two LLM coders, GPT-6.1 Sol and Claude Opus 5.5, for all 5,190 items. Item type "none" means not a lining; goal and beneficiary are filled for linings and consolation type for consolations.
 - `known_answer/`: the 72 known-answer items in Thai and English with their intended codes (`type`, `cons`, `goal`, `ben`; `cultural` marks the 12 items with Thai cultural content), and each LLM coder's codes for them.
-- `heldout/`: the 36 held-out lists.
+- `heldout/`: the 36 held-out lists and the blind codes of the two human coders (Coder A and Coder B), who coded them alone and without reconciliation.
 - `scripts/`: the scripts that generated the lists (`gen.py`), ran the LLM coders (`llmcode_openai.py`, `llmcode_claude.py`, with `llmcode.py`, `llmcode4.py`, and `coderun.py`), scored the known-answer set (`score_known.py`), and produced the analyses and figures (`analyze.py`, `analyze_coders.py`, `agree.py`, `agree_heldout.py`, `lexical_check.py`, `make_figures_v4.py`). They read the files of the original project folder, so their paths differ from the layout of this repository. API keys are read from the environment and are not included.
