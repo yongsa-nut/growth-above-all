@@ -1,0 +1,88 @@
+{
+  "template": "{persona} {situation} {instruction}",
+  "persona_implicit": {
+    "en": "I'm in high school.",
+    "th": "เราเรียนอยู่ม.ปลาย"
+  },
+  "persona_explicit": {
+    "en": {
+      "us": "I'm in high school in the USA.",
+      "th": "I'm in high school in Thailand."
+    },
+    "th": {
+      "us": "เราเรียนอยู่ม.ปลายที่อเมริกา",
+      "th": "เราเรียนอยู่ม.ปลายในประเทศไทย"
+    },
+    "rule": "the country named matches the setting of the text, written in the language of the text"
+  },
+  "instruction_pairs": [
+    {
+      "id": "P1",
+      "asks_for": "things (features)",
+      "en": "Please help me think of 6 good things about this event",
+      "th": "ช่วยคิดหน่อยว่าเรื่องนี้มีสิ่งดีๆ อะไรบ้าง สัก 6 อย่าง"
+    },
+    {
+      "id": "P2",
+      "asks_for": "sides (aspects)",
+      "en": "Please help me think of 6 good sides to this event",
+      "th": "ช่วยคิดแง่ดีของเรื่องนี้ให้หน่อย สัก 6 ข้อ"
+    },
+    {
+      "id": "P3",
+      "asks_for": "angles (perspectives)",
+      "en": "Please help me think of 6 positive ways to look at this event",
+      "th": "ช่วยคิดมุมดีๆ ของเรื่องนี้ให้หน่อย สัก 6 มุม"
+    }
+  ],
+  "identifiability_check": {
+    "en": "Based only on this message, which country does this student most likely live in? Answer with one country name.",
+    "th": "จากข้อความนี้อย่างเดียว คิดว่านักเรียนคนนี้น่าจะอยู่ประเทศอะไร ตอบชื่อประเทศเดียว",
+    "input": "persona line + situation, no instruction",
+    "samples": "5 per text per model at temperature 1",
+    "pass": "at least 4 of 5 answers from each model name the intended country"
+  },
+  "generation": {
+    "gpt": {
+      "model": "gpt-5.6-luna",
+      "api": "OpenAI",
+      "reasoning_effort": "none",
+      "temperature": 1
+    },
+    "deepseek": {
+      "model": "deepseek/deepseek-v4.1-flash",
+      "api": "OpenRouter",
+      "provider": {
+        "order": [
+          "DeepSeek"
+        ],
+        "allow_fallbacks": false
+      },
+      "reasoning": {
+        "enabled": false
+      },
+      "temperature": 1
+    },
+    "common": {
+      "system_prompt": null,
+      "turns": 1,
+      "max_tokens": 8192,
+      "order": "calls randomized and interleaved across cell, model, arm, and wording; fresh context per call"
+    }
+  },
+  "coding": {
+    "gpt-6.1-sol": {
+      "api": "OpenAI Batch API",
+      "reasoning_effort": "medium",
+      "response_format": "json_object"
+    },
+    "claude-opus-5.5": {
+      "api": "Anthropic Message Batches API",
+      "effort": "medium"
+    },
+    "common": {
+      "input": "the codebook, then one list (situation and items) per request",
+      "examples": "none beyond the codebook's own"
+    }
+  }
+}

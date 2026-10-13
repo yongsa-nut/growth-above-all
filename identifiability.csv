@@ -1,0 +1,145 @@
+﻿schema_id,cell,setting,language,model,n,hits,pass,answers
+S1,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S1,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S1,us_th,US,Thai,ds,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S1,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S1,th_th,Thai,Thai,ds,5,5,True,ไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S1,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ไทย | ประเทศไทย
+S1,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S1,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S2,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S2,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S2,us_th,US,Thai,ds,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S2,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S2,th_th,Thai,Thai,ds,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ไทย
+S2,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S2,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S2,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S3,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S3,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S3,us_th,US,Thai,ds,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S3,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S3,th_th,Thai,Thai,ds,5,5,True,ประเทศไทย  เหตุผลจากข้อความ: - ใช้คำว่า “ม.ปลาย” ซึ่งเป็นคำเรียกระดับชั้นมัธยมศึกษาตอน | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S3,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S3,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S3,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S4,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S4,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S4,us_th,US,Thai,ds,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S4,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S4,th_th,Thai,Thai,ds,5,5,True,ประเทศไทย | ประเทศไทย | ไทย | ประเทศไทย | ประเทศไทย
+S4,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ประเทศไทย | ไทย | ประเทศไทย | ไทย
+S4,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S4,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S5,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S5,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S5,us_th,US,Thai,ds,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S5,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S5,th_th,Thai,Thai,ds,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S5,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ไทย | ประเทศไทย
+S5,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S5,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S6,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S6,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S6,us_th,US,Thai,ds,5,5,True,"สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา  เหตุผลจากข้อความ: ชื่อโรงเรียน ""Lincoln High"" เป็นชื่อโรงเรียนที่พบบ่อยในสหรัฐ | สหรัฐอเมริกา"
+S6,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S6,th_th,Thai,Thai,ds,5,5,True,"ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย  เหตุผลจากข้อความ: ชื่อโรงเรียน ""สุขสวัสดิ์วิทยา"" เป็นชื่อโรงเรียนในประเทศไทย และบริบทการเรียนระดับ"
+S6,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S6,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S6,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S7,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S7,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S7,us_th,US,Thai,ds,5,5,True,สหรัฐอเมริกา  เหตุผลจากข้อความเดียว: มีการใช้ **PowerSchool** ซึ่งเป็นระบบบริหารจัดการข้อมูลนักเรียนที่ใช้กันแพร | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา  เหตุผลจากข้อความเดียว: มีการใช้ **PowerSchool** ซึ่งเป็นระบบบริหารจัดการข้อมูลนักเรียนที่ใช้กันแพร | สหรัฐอเมริกา  เหตุผลจากข้อความเดียวคือคำว่า **PowerSchool** ซึ่งเป็นระบบบริหารจัดการข้อมูลนักเรียน (Student Information System
+S7,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S7,th_th,Thai,Thai,ds,5,5,True,ประเทศไทย | ไทย | ไทย | ไทย | ไทย
+S7,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S7,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S7,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S8,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S8,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S8,us_th,US,Thai,ds,5,5,True,สหรัฐอเมริกา  เหตุผลจากคำว่า **PowerSchool** ซึ่งเป็นระบบบริหารจัดการข้อมูลนักเรียน (student information system) ที่ใช้กัน | สหรัฐอเมริกา  เหตุผลจากคำว่า **PowerSchool** ซึ่งเป็นระบบบริหารจัดการข้อมูลนักเรียน (Student Information System) ที่ใช้กัน | สหรัฐอเมริกา | สหรัฐอเมริกา  เหตุผล: ข้อความใช้คำว่า **PowerSchool** ซึ่งเป็นระบบบริหารจัดการข้อมูลนักเรียน (Student Information System | สหรัฐอเมริกา  เหตุผลจากข้อความเดียวคือมีการใช้ **PowerSchool** ซึ่งเป็นระบบบริหารจัดการข้อมูลนักเรียน/เกรด
+S8,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S8,th_th,Thai,Thai,ds,5,5,True,ไทย | ไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S8,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ไทย | ประเทศไทย
+S8,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S8,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S9,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S9,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S9,us_th,US,Thai,ds,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S9,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S9,th_th,Thai,Thai,ds,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S9,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S9,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S9,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S10,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S10,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S10,us_th,US,Thai,ds,5,5,True,สหรัฐอเมริกา  เหตุผลจากข้อความ: มีการกล่าวถึงโรงหนัง **AMC** ซึ่งเป็นเครือข่ายโรงภาพ | ประเทศสหรัฐอเมริกา  เหตุผลสั้น ๆ: โรงหนัง **AMC** เป็นเครือข่ายโรงภาพยนตร์ที่มี | สหรัฐอเมริกา  เหตุผลจากข้อความ: พูดถึงโรงหนัง **AMC** ซึ่งเป็นเครือข่ายโรงภาพยน | สหรัฐอเมริกา  เหตุผลจากข้อความ: โรงหนังใช้ชื่อ **AMC** ซึ่งเป็นเครือข่ายโรงภาพยน | สหรัฐอเมริกา  เหตุผลจากข้อความ: โรงหนัง **AMC** เป็นเครือข่ายโรงภาพยนตร์ที่มีชื่อ
+S10,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S10,th_th,Thai,Thai,ds,5,5,True,"ประเทศไทย  เหตุผล: ข้อความใช้คำว่า ""ม.ปลาย"" (มัธยมศึกษาตอนปลาย) ซึ่งเป็นระบบการศึกษา | ประเทศไทย  เหตุผล: ข้อความใช้ภาษาไทย และกล่าวถึง ""เมเจอร์ ซีนีเพล็กซ์"" ซึ่งเป็นเครือโรง | ประเทศไทย | ประเทศไทย  เหตุผลจากข้อความ: มีการใช้คำว่า “เมเจอร์ ซีนีเพล็กซ์” ซึ่งเป็นชื่อโรงภาพยนตร์ | ประเทศไทย"
+S10,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S10,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S10,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S11,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S11,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S11,us_th,US,Thai,ds,5,5,True,"สหรัฐอเมริกา  เหตุผลจากข้อความเดียว: พูดถึงโรงหนัง **AMC** ซึ่งเป็นเครือข่ายโรงภาพ | สหรัฐอเมริกา  เหตุผลจากข้อความเดียว: มีการเอ่ยถึงโรงหนัง **AMC** ซึ่งเป็นเครือข | สหรัฐอเมริกา | สหรัฐอเมริกา  เหตุผลสั้นๆ: การกล่าวถึงโรงหนัง **AMC** ซึ่งเป็นเครือข่ายโรงภาพยน | สหรัฐอเมริกา  เหตุผลจากข้อความเดียว: มีการเอ่ยถึงโรงหนัง ""AMC"" ซึ่งเป็นเครือโรง"
+S11,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S11,th_th,Thai,Thai,ds,5,4,True,"จากข้อความนี้มีคำว่า **""เมเจอร์ ซีนีเพล็กซ์""** ซึ่งเป็นชื่อโรงภาพยนตร์ที่รู้จัก | จากข้อความนี้ นักเรียนคนนี้น่าจะอยู่ **ประเทศไทย**  เหตุผลคือใช้คำว่า “เมเจอร์ ซีนีเพล็กซ | ประเทศไทย | ประเทศไทย | ประเทศไทย"
+S11,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S11,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S11,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S12,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S12,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S12,us_th,US,Thai,ds,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา  เหตุผลจากข้อความเดียว: มีการใช้ **Venmo** ซึ่งเป็นแอปโอนเงินที่นิยม | สหรัฐอเมริกา | สหรัฐอเมริกา  เหตุผลจากข้อความ: ใช้ **Venmo** ซึ่งเป็นแอปโอนเงินที่นิยมมาก
+S12,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S12,th_th,Thai,Thai,ds,5,5,True,ไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S12,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S12,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S12,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S13,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S13,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S13,us_th,US,Thai,ds,5,5,True,"สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา  เหตุผลสั้นๆ: ชื่อโรงเรียน ""Lincoln High"" เป็นชื่อโรงเรียนมัธยมที่พบบ่อย | สหรัฐอเมริกา | สหรัฐอเมริกา"
+S13,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S13,th_th,Thai,Thai,ds,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ไทย | ประเทศไทย
+S13,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S13,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S13,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S14,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S14,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S14,us_th,US,Thai,ds,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S14,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S14,th_th,Thai,Thai,ds,5,5,True,"ประเทศไทย | ไทย  เหตุผลจากข้อความ: โรงเรียนชื่อ ""สุขสวัสดิ์วิทยา"" เป็นชื่อโรงเรียนในประเทศไทย และการใช้คำว่า ""ม. | ประเทศไทย  เหตุผล: ข้อความใช้ภาษาไทย มีคำว่า “ม.ปลาย” (มัธยมศึกษาตอนปลาย) และ | ไทย | ประเทศไทย"
+S14,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S14,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S14,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S15,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S15,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S15,us_th,US,Thai,ds,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S15,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S15,th_th,Thai,Thai,ds,5,5,True,ประเทศไทย | ไทย | ไทย | ประเทศไทย | ประเทศไทย
+S15,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S15,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S15,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S16,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S16,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S16,us_th,US,Thai,ds,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S16,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S16,th_th,Thai,Thai,ds,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S16,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S16,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S16,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S17,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S17,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S17,us_th,US,Thai,ds,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S17,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S17,th_th,Thai,Thai,ds,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S17,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S17,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S17,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S18,us_en,US,English,ds,5,5,True,United States | United States | United States | United States | United States
+S18,us_en,US,English,gpt,5,5,True,United States | United States | United States | United States | United States
+S18,us_th,US,Thai,ds,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S18,us_th,US,Thai,gpt,5,5,True,สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา | สหรัฐอเมริกา
+S18,th_th,Thai,Thai,ds,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย | ประเทศไทย
+S18,th_th,Thai,Thai,gpt,5,5,True,ประเทศไทย | ประเทศไทย | ประเทศไทย | ไทย | ประเทศไทย
+S18,th_en,Thai,English,ds,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
+S18,th_en,Thai,English,gpt,5,5,True,Thailand | Thailand | Thailand | Thailand | Thailand
